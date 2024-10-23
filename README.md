@@ -17,3 +17,5 @@ If grade is between 60 and 66, it returns "D".
 Otherwise, it returns "F" for any grade below 60.
 
 What is your grade?
+
+Please create an issue report if you discover any bugs while running it with PyCharm.
