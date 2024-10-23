@@ -15,3 +15,5 @@ If grade is between 70 and 76, it returns "C".
 If grade is between 67 and 69, it returns "D+".
 If grade is between 60 and 66, it returns "D".
 Otherwise, it returns "F" for any grade below 60.
+
+What is your grade?
