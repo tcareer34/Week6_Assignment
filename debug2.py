@@ -1,4 +1,4 @@
-ef score_to_letter_grade(grade):
+def score_to_letter_grade(grade):
     if grade > 90:
         return "A"
     elif grade >= 87:
