@@ -1,4 +1,4 @@
-ef score_to_letter_grade(grade):
+def score_to_letter_grade(grade):
     if grade > 90:
         return "A"
     elif grade >= 87:
@@ -25,4 +25,6 @@ print("Grade of 60 should be D: " + score_to_letter_grade(60))
 print("Grade of 59 should be F: " + score_to_letter_grade(59))
 #Test to see changes
 #Test 2
+#def function made correction
+
 
