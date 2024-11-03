@@ -1,5 +1,24 @@
 # Week6_Assignment
-Partner Assignment for Week 6 CNE 310
+## Partner Assignment for Week 6 CNE 310
+### Pull Request Signed SoW
+#### This is the debuging Project Code:
+
+def lone_sum(a, b, c):
+if a >= b:
+return c
+elif a == c:
+return b
+elif b == c:
+return a
+elif a == b and a == c and b == c:
+return 0
+else:
+return a+b+c
+print("lone_sum of 10, 10, 10 should be 0: " + str(lone_sum(10, 10, 10)))
+print("lone_sum of 1, 2, 3 should be 6: " + str(lone_sum(1, 2, 3)))
+print("lone_sum of 1, 2, 1 should be 2: " + str(lone_sum(1, 2, 1)))
+print("lone_sum of 4, 5, 6 should be 15: " + str(lone_sum(4, 5, 6)))
+
 
 This Python code defines a function called score_to_letter_grade that converts a numeric grade into a letter grade based on a set of conditions. 
 This is a breakdown of what it does:
