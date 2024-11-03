@@ -1,7 +1,7 @@
 # Week6_Assignment
 ## Partner Assignment for Week 6 CNE 310
 ### Pull Request Signed SoW
-#### This is the decode to debug
+#### This is the debuging Project Code:
 
 def lone_sum(a, b, c):
 if a >= b:
